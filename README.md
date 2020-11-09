@@ -1,8 +1,4 @@
-<h1 align="center">Hey, I'm KIVOX<br></h1>
-
-<p align="center">
-  <img width="30%" alt="Petar" src="https://cdn.discordapp.com/attachments/701845223957069845/709152739652927618/kr-2.png">
-</p>
+<h1 align="center">KIVOX<br></h1>
 
 <h3 align="center">Languages<br></h3>
 
