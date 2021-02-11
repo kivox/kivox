@@ -14,6 +14,8 @@
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-262626?style=for-the-badge&logo=node.js">
+  <img alt="https://img.shields.io/badge/-Vue-262626?style=for-the-badge&logo=vue.js">
+  <img alt="https://img.shields.io/badge/-Nuxt-262626?style=for-the-badge&logo=nuxt.js">
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-262626?style=for-the-badge&logo=laravel">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-262626?style=for-the-badge&logo=flask">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
