@@ -18,7 +18,7 @@
   <img alt="Nuxt.JS" src="https://img.shields.io/badge/-Nuxt-262626?style=for-the-badge&logo=nuxt.js">
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-262626?style=for-the-badge&logo=laravel">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-262626?style=for-the-badge&logo=flask">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux"></br>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-262626?style=for-the-badge&logo=ubuntu">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=github">
   <img alt="GOLand" src="https://img.shields.io/badge/-GOLand-262626?style=for-the-badge&logo=go">
