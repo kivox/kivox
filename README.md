@@ -1,4 +1,4 @@
-<h1 align="center">KIVOX</h1></br>
+<h1 align="center">KIVOX</br></h1>
 
 <h3 align="center">Languages</h3>
 
@@ -10,7 +10,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-262626?style=for-the-badge&logo=postgresql">
 </p></br>
 
-<h3 align="center">Frameworks & Libraries</h3>
+<h3 align="center">Frameworks & Libraries</br></h3>
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-262626?style=for-the-badge&logo=node.js">
@@ -20,7 +20,7 @@
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-262626?style=for-the-badge&logo=nuxt.js">
 </p></br>
 
-<h3 align="center">Software</h3>
+<h3 align="center">Software</br></h3>
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
