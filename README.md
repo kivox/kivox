@@ -8,7 +8,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-262626?style=for-the-badge&logo=postgresql">
-</p></br>
+</p>
 
 <h3 align="center">Frameworks & Libraries</br></h3>
 
@@ -18,7 +18,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=react">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-262626?style=for-the-badge&logo=vue.js">
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-262626?style=for-the-badge&logo=nuxt.js">
-</p></br>
+</p>
 
 <h3 align="center">Software</br></h3>
 
