@@ -19,6 +19,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/-Next-262626?style=for-the-badge&logo=next.js">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-262626?style=for-the-badge&logo=vue.js">
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-262626?style=for-the-badge&logo=nuxt.js">
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-262626?style=for-the-badge&logo=prisma">
 </p>
 
 <h3 align="center">Software</br></h3>
