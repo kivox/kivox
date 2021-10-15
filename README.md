@@ -27,6 +27,7 @@
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-262626?style=for-the-badge&logo=ubuntu">
+  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-262626?style=for-the-badge&logo=fedora">
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-262626?style=for-the-badge&logo=nginx">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-262626?style=for-the-badge&logo=docker">
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-262626?style=for-the-badge&logo=kubernetes">
