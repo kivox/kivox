@@ -4,6 +4,7 @@
 
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/-Go-262626?style=for-the-badge&logo=go">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-262626?style=for-the-badge&logo=typescript">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript">
   <img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
