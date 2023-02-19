@@ -37,7 +37,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-262626?style=for-the-badge&logo=docker">
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-262626?style=for-the-badge&logo=kubernetes">
   <img alt="Libvirt" src="https://img.shields.io/badge/-LibVirt-262626?style=for-the-badge&logo=VirtualBox">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-262626?style=for-the-badge&logo=git">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=github">
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-262626?style=for-the-badge&logo=gitlab">
 </p></br>
 
 <p align="center">
