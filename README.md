@@ -4,9 +4,8 @@
 
 | Project | Repository | Website |
 | ------- | ---------- | ------- |
-| Nolag | [GitHub](https://github.com/nolaghost) | [Website](https://nolag.host) |
+| NOLAG | [GitHub](https://github.com/nolaghost) | [Website](https://nolag.host) |
 | Xenode | [GitHub](https://github.com/xenodeapp) | [Website](https://xenode.app) |
-| Twibber | [GitHub](https://github.com/twibber) | [Website](https://twibber.xyz) |
 
 ## Languages
 
