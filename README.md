@@ -1,4 +1,4 @@
-# Petar Markov (KIVOX)
+# Petar Markov
 
 ## Languages
 
