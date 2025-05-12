@@ -1,12 +1,5 @@
 # Petar Markov (KIVOX)
 
-## 🚀 Currently Working On
-
-| Project | Repository | Website |
-| ------- | ---------- | ------- |
-| NOLAG | [GitHub](https://github.com/nolaghost) | [Website](https://nolag.host) |
-| Xenode | [GitHub](https://github.com/xenodeapp) | [Website](https://xenode.app) |
-
 ## Languages
 
 <div style="display: inline-block;">
